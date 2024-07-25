@@ -661,6 +661,7 @@ cursor: pointer;
     .pic3{
         flex-direction:column;
         width:100%;
+        flex:1;
     }
     .pic4{
         flex-direction:column;
