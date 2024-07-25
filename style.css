@@ -660,7 +660,7 @@ cursor: pointer;
  .pic9 .p{
     margin-top: -18px;
  }
-@media screen and (max-width:1300px) {
+@media screen and (max-width:800px) {
     .pic4{
         flex-direction:column;
         width:100%;
