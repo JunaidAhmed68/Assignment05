@@ -661,8 +661,9 @@ cursor: pointer;
     margin-top: -18px;
  }
 @media screen and (max-width:1300px) {
-    .main1{
-        flex-wrap: wrap;
+    .pic4{
+        flex-direction:column;
     }
+   
     
 }
