@@ -663,7 +663,28 @@ cursor: pointer;
 @media screen and (max-width:1300px) {
     .pic4{
         flex-direction:column;
+        width:100%;
     }
-   
+    .pic5{
+        flex-direction:column;
+        width:100%;
+    }
+     .pic6{
+        flex-direction:column;
+        width:100%;
+    }
+     .pic7{
+        flex-direction:column;
+        width:100%;
+    }
+     .pic8{
+        flex-direction:column;
+        width:100%;
+    }
+     .pic9{
+        flex-direction:column;
+        width:100%;
+    }
+     
     
 }
